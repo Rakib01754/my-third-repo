@@ -1,3 +1,9 @@
 h2{
     color:blueviolet
 }
+.nice{
+    background-color: aqua;
+    color: sienna;
+    width: 80%;
+    margin: 0 auto;
+}
